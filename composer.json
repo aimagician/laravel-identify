@@ -8,21 +8,7 @@
         "name": "unicodeveloper",
         "email": "prosperotemuyiwa@gmail.com"
       }
-   ],
-    "repositories": [
-        {
-            "type":"package",
-            "package": {
-                "name": "aimagician/laravel-identify",
-                "version":"master",
-                "source": {
-                    "url": "https://github.com/aimagician/laravel-identify",
-                    "type": "git",
-                    "reference":"master"
-                }
-            }
-        }
-    ],    
+   ],  
    "require": {
     "php": ">=7.2.5",
     "sinergi/browser-detector": "6.1.*"
