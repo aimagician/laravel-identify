@@ -9,6 +9,12 @@
         "email": "prosperotemuyiwa@gmail.com"
       }
    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/aimagician/laravel-identify"
+        }
+    ],    
    "require": {
     "php": ">=7.2.5",
     "sinergi/browser-detector": "6.1.*"
