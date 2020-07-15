@@ -10,8 +10,7 @@
       }
    ],
    "require": {
-    "php": ">=7.4",
-    "illuminate/support": "~6.0",
+    "php": ">=7.2.5",
     "sinergi/browser-detector": "6.1.*"
    },
    "require-dev": {
