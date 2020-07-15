@@ -19,6 +19,8 @@
     "scrutinizer/ocular": "~1.1",
     "satooshi/php-coveralls": "^0.7.0"
    },
+   "minimum-stability": "dev",
+   "prefer-stable": true,    
    "autoload": {
         "psr-4": {
           "Unicodeveloper\\Identify\\": "src/"
