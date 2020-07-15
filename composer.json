@@ -11,8 +11,16 @@
    ],
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/aimagician/laravel-identify"
+            "type":"package",
+            "package": {
+                "name": "aimagician/laravel-identify",
+                "version":"master",
+                "source": {
+                    "url": "https://github.com/aimagician/laravel-identify",
+                    "type": "git",
+                    "reference":"master"
+                }
+            }
         }
     ],    
    "require": {
