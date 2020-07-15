@@ -10,12 +10,12 @@
       }
    ],
    "require": {
-    "php": ">=7.1.3",
-    "illuminate/support": "~5.7.0|~5.8.0",
+    "php": ">=7.4",
+    "illuminate/support": "~6.0",
     "sinergi/browser-detector": "6.1.*"
    },
    "require-dev": {
-    "phpunit/phpunit": "~6.0.0",
+    "phpunit/phpunit": "~8.5",
     "mockery/mockery": "0.9.*",
     "scrutinizer/ocular": "~1.1",
     "satooshi/php-coveralls": "^0.7.0"
