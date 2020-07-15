@@ -1,5 +1,7 @@
 # laravel-identify
 
+### UPDATE for the version 6.0
+
 [![Latest Stable Version](https://poser.pugx.org/unicodeveloper/laravel-identify/v/stable.svg)](https://packagist.org/packages/unicodeveloper/laravel-identify)
 ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 [![License](https://poser.pugx.org/unicodeveloper/laravel-identify/license.svg)](LICENSE.md)
